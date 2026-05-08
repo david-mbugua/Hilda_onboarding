@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
     
     actionBtn.addEventListener("click", () => {
         // Hilda, try changing this alert message!
-        alert("Button clicked successfully.");
+        alert("Welcome to the website.");
     });
 });
